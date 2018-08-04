@@ -74,7 +74,7 @@
 	ldap_close($ldap);
     //LDAP stuff here.
     /*$username = "ormikopo";
-    $password = "%or1440";
+    $password = "**************************";
 	
     $ds = ldap_connect("ldap.uth.gr");
     
