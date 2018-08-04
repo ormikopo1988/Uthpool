@@ -5,7 +5,7 @@
 
 	$bindDn = "uid=ormikopo,dc=uth,dc=gr";
 
-	$bindPw = "%or1440";
+	$bindPw = "*********************";
 
 	$searchBase = "dc=uth,dc=gr";
 
